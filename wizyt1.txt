@@ -1,0 +1,1 @@
+program generujący dane osobowe, faker robi prawie swoje ale nie działa sortowanie z lambdą;)
